@@ -1,7 +1,6 @@
 # Twitter Demo
 
-Swift application which uses the Twitter API to show a timeling, compose new
-tweet, reply to a tweet, favorite, retweet, etc.
+Swift application which uses the Twitter API to show user tweets timeline, compose new tweet, reply to a tweet, favorite, retweet, etc.
 
 Time spent: 29 hours spent in total
 
